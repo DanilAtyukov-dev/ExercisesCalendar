@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExercisesCalendar</string>
+
+    <!--instructions-->
+    <string name="aboutAppTitle">INSTRUCTION</string>
+    <string name="aboutApp1">This fitness app provides workout plans aimed at improving physical fitness and achieving harmony between the body and mind.</string>
+    <string name="benefitsTitle">Benefits of sports</string>
+    <string name="benefit1">Regular workouts boost energy, elevate mood and reduce stress</string>
+    <string name="benefit2">Physical activity contributes to overall health improvement and strengthens the immune system</string>
+    <string name="benefit3">Sports develop endurance, positively impacting the quality of life</string>
+    <string name="warningTitle">Warning</string>
+    <string name="warning1">Don’t forget to warm up before workouts. Heavy loads without proper warm-up may increase the risk of injuries and adversely affect muscle and joint health.</string>
+    <string name="continueUpperCase">CONTINUE</string>
+
+    <!--difficult-->
+    <string name="difficult1">Low</string>
+    <string name="difficult2">Middle</string>
+    <string name="difficult3">High</string>
+</resources>
